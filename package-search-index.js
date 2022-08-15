@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"me.qscbm.DodoOpenJava"},{"l":"me.qscbm.DodoOpenJava.api"},{"l":"所有程序包","u":"allpackages-index.html"}];updateSearchResults();
+packageSearchIndex = [{"l":"io.github.mcchampions.DodoOpenJava"},{"l":"io.github.mcchampions.DodoOpenJava.api"},{"l":"所有程序包","u":"allpackages-index.html"}];updateSearchResults();
