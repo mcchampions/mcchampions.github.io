@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"io.github.mcchampions.DodoOpenJava"},{"l":"io.github.mcchampions.DodoOpenJava.api"},{"l":"io.github.mcchampions.DodoOpenJava.Event"},{"l":"所有程序包","u":"allpackages-index.html"}];updateSearchResults();
+packageSearchIndex = [{"l":"io.github.mcchampions.DodoOpenJava"},{"l":"io.github.mcchampions.DodoOpenJava.api"},{"l":"io.github.mcchampions.DodoOpenJava.Command"},{"l":"io.github.mcchampions.DodoOpenJava.Event"},{"l":"所有程序包","u":"allpackages-index.html"}];updateSearchResults();
