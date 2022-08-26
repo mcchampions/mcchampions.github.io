@@ -1,4 +1,8 @@
 io.github.mcchampions.DodoOpenJava
 io.github.mcchampions.DodoOpenJava.api
 io.github.mcchampions.DodoOpenJava.Command
+io.github.mcchampions.DodoOpenJava.configuration
+io.github.mcchampions.DodoOpenJava.configuration.file
+io.github.mcchampions.DodoOpenJava.configuration.serialization
 io.github.mcchampions.DodoOpenJava.Event
+io.github.mcchampions.DodoOpenJava.Utils
