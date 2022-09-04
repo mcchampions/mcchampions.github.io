@@ -1,4 +1,3 @@
-io.github.mcchampions.DodoOpenJava
 io.github.mcchampions.DodoOpenJava.api
 io.github.mcchampions.DodoOpenJava.Card
 io.github.mcchampions.DodoOpenJava.Card.Enums
@@ -8,4 +7,6 @@ io.github.mcchampions.DodoOpenJava.configuration.file
 io.github.mcchampions.DodoOpenJava.configuration.serialization
 io.github.mcchampions.DodoOpenJava.Event
 io.github.mcchampions.DodoOpenJava.Event.events
+io.github.mcchampions.DodoOpenJava.permissions
+io.github.mcchampions.DodoOpenJava.permissions.Data
 io.github.mcchampions.DodoOpenJava.Utils
