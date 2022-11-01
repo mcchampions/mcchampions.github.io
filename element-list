@@ -1,6 +1,7 @@
-io.github.mcchampions.DodoOpenJava.Api
+io.github.mcchampions.DodoOpenJava.Api.V1
+io.github.mcchampions.DodoOpenJava.Api.V2
 io.github.mcchampions.DodoOpenJava.Card
-io.github.mcchampions.DodoOpenJava.Card.Enums
+io.github.mcchampions.DodoOpenJava.Card.enums
 io.github.mcchampions.DodoOpenJava.Command
 io.github.mcchampions.DodoOpenJava.Configuration
 io.github.mcchampions.DodoOpenJava.Configuration.file
