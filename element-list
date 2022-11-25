@@ -13,3 +13,4 @@ io.github.mcchampions.DodoOpenJava.Event.events.V2
 io.github.mcchampions.DodoOpenJava.Permissions
 io.github.mcchampions.DodoOpenJava.Permissions.Data
 io.github.mcchampions.DodoOpenJava.Utils
+io.github.mcchampions.DodoOpenJava.Utils.Command
