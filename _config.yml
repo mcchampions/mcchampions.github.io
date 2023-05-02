@@ -3,3 +3,5 @@ theme: jekyll-theme-leap-day
 title: 网站
 
 description: 一个网站
+
+markdown: GFM
