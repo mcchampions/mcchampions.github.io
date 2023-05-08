@@ -1,7 +1,13 @@
 ---
 title: Java网络操作库okhttps的使用
 date: 2023-05-08 19:42:44
-tags:
+tag:
+- okhttps
+- websocket
+- post
+- get
+category:
+- Java
 ---
 网络请求:
 ```java

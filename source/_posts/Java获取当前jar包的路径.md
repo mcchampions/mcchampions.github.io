@@ -1,7 +1,11 @@
 ---
 title: Java获取当前jar包的路径
 date: 2023-05-08 19:35:55
-tags:
+tag:
+- jar
+- 路径
+category:
+- Java
 ---
 有的时候，我们需要获取当前jar包的路径，但又不知道怎么实现，那就看这一篇播客吧
 ```java

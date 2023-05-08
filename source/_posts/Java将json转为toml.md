@@ -1,7 +1,11 @@
 ---
 title: Java将json转为toml
 date: 2023-05-08 19:38:52
-tags:
+tag:
+  - json
+  - toml
+category: 
+  - Java
 ---
 有的时候，我们需要将json对象转换为toml字符串，但很多库都没有实现，那有怎么办呢。
 ```java
