@@ -25,10 +25,8 @@ jobs:
             ${{ runner.OS }}-npm-cache
       - name: Install Dependencies
         run: npm install
-      - name: Run
-        run: npm config set unsafe-perm true  
       - name: Build
-        run: npm run build
+        run: npm run build --unsafe-perm
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
