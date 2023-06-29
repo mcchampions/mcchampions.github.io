@@ -99,12 +99,6 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: arknights
 
-# Deployment
-## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: git
-  branch: main
-  repo: https://github.com/mcchampions/mcchampions.github.io
 hexo_submit_urls_to_search_engine:
   submit_condition: count
   count: 10
