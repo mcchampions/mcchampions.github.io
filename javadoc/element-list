@@ -1,5 +1,3 @@
-io.github.minecraftchampions.dodoopenjava.api
-io.github.minecraftchampions.dodoopenjava.api.v1
 io.github.minecraftchampions.dodoopenjava.api.v2
 io.github.minecraftchampions.dodoopenjava.card
 io.github.minecraftchampions.dodoopenjava.card.component
@@ -11,7 +9,6 @@ io.github.minecraftchampions.dodoopenjava.configuration.file
 io.github.minecraftchampions.dodoopenjava.configuration.serialization
 io.github.minecraftchampions.dodoopenjava.configuration.util
 io.github.minecraftchampions.dodoopenjava.event
-io.github.minecraftchampions.dodoopenjava.event.events.v1
 io.github.minecraftchampions.dodoopenjava.event.events.v2
 io.github.minecraftchampions.dodoopenjava.event.webhook
 io.github.minecraftchampions.dodoopenjava.event.webhook.util
