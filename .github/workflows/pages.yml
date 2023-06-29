@@ -24,7 +24,7 @@ jobs:
           restore-keys: |
             ${{ runner.OS }}-npm-cache
       - name: Install Dependencies
-        run: npm install --unsafe-perm
+        run: ll hexo && sudo chmod +777 hexo && npm install --unsafe-perm
       - name: Build
         run: npm run build --unsafe-perm
       - name: Deploy
