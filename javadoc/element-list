@@ -15,4 +15,5 @@ io.github.minecraftchampions.dodoopenjava.event.webhook.util
 io.github.minecraftchampions.dodoopenjava.event.websocket
 io.github.minecraftchampions.dodoopenjava.permissions
 io.github.minecraftchampions.dodoopenjava.permissions.data
+io.github.minecraftchampions.dodoopenjava.test
 io.github.minecraftchampions.dodoopenjava.utils
