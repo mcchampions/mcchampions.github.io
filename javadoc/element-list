@@ -1,13 +1,12 @@
+io.github.minecraftchampions.dodoopenjava
 io.github.minecraftchampions.dodoopenjava.api.v2
 io.github.minecraftchampions.dodoopenjava.card
 io.github.minecraftchampions.dodoopenjava.card.component
 io.github.minecraftchampions.dodoopenjava.card.enums
 io.github.minecraftchampions.dodoopenjava.command
-io.github.minecraftchampions.dodoopenjava.command.util
 io.github.minecraftchampions.dodoopenjava.configuration
 io.github.minecraftchampions.dodoopenjava.configuration.file
 io.github.minecraftchampions.dodoopenjava.configuration.serialization
-io.github.minecraftchampions.dodoopenjava.configuration.util
 io.github.minecraftchampions.dodoopenjava.event
 io.github.minecraftchampions.dodoopenjava.event.events.v2.channelarticle
 io.github.minecraftchampions.dodoopenjava.event.events.v2.channelmessage
@@ -17,9 +16,6 @@ io.github.minecraftchampions.dodoopenjava.event.events.v2.integral
 io.github.minecraftchampions.dodoopenjava.event.events.v2.member
 io.github.minecraftchampions.dodoopenjava.event.events.v2.personal
 io.github.minecraftchampions.dodoopenjava.event.events.v2.shop
-io.github.minecraftchampions.dodoopenjava.event.webhook
-io.github.minecraftchampions.dodoopenjava.event.webhook.util
-io.github.minecraftchampions.dodoopenjava.event.websocket
 io.github.minecraftchampions.dodoopenjava.message
 io.github.minecraftchampions.dodoopenjava.message.example
 io.github.minecraftchampions.dodoopenjava.permissions
