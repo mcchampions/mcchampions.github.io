@@ -1,8 +1,5 @@
 io.github.minecraftchampions.dodoopenjava
 io.github.minecraftchampions.dodoopenjava.api.v2
-io.github.minecraftchampions.dodoopenjava.card
-io.github.minecraftchampions.dodoopenjava.card.component
-io.github.minecraftchampions.dodoopenjava.card.enums
 io.github.minecraftchampions.dodoopenjava.command
 io.github.minecraftchampions.dodoopenjava.configuration
 io.github.minecraftchampions.dodoopenjava.configuration.file
@@ -17,6 +14,14 @@ io.github.minecraftchampions.dodoopenjava.event.events.v2.member
 io.github.minecraftchampions.dodoopenjava.event.events.v2.personal
 io.github.minecraftchampions.dodoopenjava.event.events.v2.shop
 io.github.minecraftchampions.dodoopenjava.message
+io.github.minecraftchampions.dodoopenjava.message.card
+io.github.minecraftchampions.dodoopenjava.message.card.component
+io.github.minecraftchampions.dodoopenjava.message.card.enums
+io.github.minecraftchampions.dodoopenjava.message.file
+io.github.minecraftchampions.dodoopenjava.message.image
+io.github.minecraftchampions.dodoopenjava.message.share
+io.github.minecraftchampions.dodoopenjava.message.text
+io.github.minecraftchampions.dodoopenjava.message.video
 io.github.minecraftchampions.dodoopenjava.permissions
 io.github.minecraftchampions.dodoopenjava.permissions.data
 io.github.minecraftchampions.dodoopenjava.utils
