@@ -22,6 +22,4 @@ io.github.minecraftchampions.dodoopenjava.message.image
 io.github.minecraftchampions.dodoopenjava.message.share
 io.github.minecraftchampions.dodoopenjava.message.text
 io.github.minecraftchampions.dodoopenjava.message.video
-io.github.minecraftchampions.dodoopenjava.permissions
-io.github.minecraftchampions.dodoopenjava.permissions.data
 io.github.minecraftchampions.dodoopenjava.utils
